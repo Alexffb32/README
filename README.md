@@ -1,5 +1,5 @@
 # README
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="/openschool_core/static/src/img/logo_w.png" alt="a" title="EPF">
 
 ### Hi 👋
 I like programming, gaming and tech. I was at the websummit. 
